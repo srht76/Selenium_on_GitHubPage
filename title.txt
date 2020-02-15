@@ -1,0 +1,270 @@
+0.
+tensorflow / tensorflow
+**************************
+1.
+CyC2018 / CS-Notes
+**************************
+2.
+donnemartin / system-design-primer
+**************************
+3.
+vinta / awesome-python
+**************************
+4.
+TheAlgorithms / Python
+**************************
+5.
+justjavac / free-programming-books-zh_CN
+**************************
+6.
+nvbn / thefuck
+**************************
+7.
+pallets / flask
+**************************
+8.
+django / django
+**************************
+9.
+keras-team / keras
+**************************
+10.
+jakubroztocil / httpie
+**************************
+11.
+ansible / ansible
+**************************
+12.
+psf / requests
+**************************
+13.
+scikit-learn / scikit-learn
+**************************
+14.
+aymericdamien / TensorFlow-Examples
+**************************
+15.
+pytorch / pytorch
+**************************
+16.
+scrapy / scrapy
+**************************
+17.
+ageitgey / face_recognition
+**************************
+18.
+home-assistant / home-assistant
+**************************
+19.
+tuvtran / project-based-learning
+**************************
+20.
+Avik-Jain / 100-Days-Of-ML-Code
+**************************
+21.
+azl397985856 / leetcode
+**************************
+22.
+certbot / certbot
+**************************
+23.
+521xueweihan / HelloGitHub
+**************************
+24.
+apache / spark
+**************************
+25.
+faif / python-patterns
+**************************
+26.
+pandas-dev / pandas
+**************************
+27.
+apachecn / AiLearning
+**************************
+28.
+jakevdp / PythonDataScienceHandbook
+**************************
+29.
+serhii-londar / open-source-mac-os-apps
+**************************
+30.
+realpython / python-guide
+**************************
+31.
+pypa / pipenv
+**************************
+32.
+ryanoasis / nerd-fonts
+**************************
+33.
+satwikkansal / wtfpython
+**************************
+34.
+donnemartin / interactive-coding-challenges
+**************************
+35.
+tornadoweb / tornado
+**************************
+36.
+ageron / handson-ml
+**************************
+37.
+docker / compose
+**************************
+38.
+donnemartin / data-science-ipython-notebooks
+**************************
+39.
+mitmproxy / mitmproxy
+**************************
+40.
+fastai / fastai
+**************************
+41.
+3b1b / manim
+**************************
+42.
+SeleniumHQ / selenium
+**************************
+43.
+keon / algorithms
+**************************
+44.
+microsoft / CNTK
+**************************
+45.
+odoo / odoo
+**************************
+46.
+encode / django-rest-framework
+**************************
+47.
+sqlmapproject / sqlmap
+**************************
+48.
+google / python-fire
+**************************
+49.
+d2l-ai / d2l-zh
+**************************
+50.
+explosion / spaCy
+**************************
+51.
+apache / airflow
+**************************
+52.
+getredash / redash
+**************************
+53.
+reddit-archive / reddit
+**************************
+54.
+HelloZeroNet / ZeroNet
+**************************
+55.
+CorentinJ / Real-Time-Voice-Cloning
+**************************
+56.
+nicolargo / glances
+**************************
+57.
+MLEveryday / 100-Days-Of-ML-Code
+**************************
+58.
+psf / black
+**************************
+59.
+StevenBlack / hosts
+**************************
+60.
+celery / celery
+**************************
+61.
+binux / pyspider
+**************************
+62.
+ipython / ipython
+**************************
+63.
+machinelearningmindset / TensorFlow-Course
+**************************
+64.
+wangshub / wechat_jump_game
+**************************
+65.
+google / flatbuffers
+**************************
+66.
+trekhleb / homemade-machine-learning
+**************************
+67.
+huge-success / sanic
+**************************
+68.
+tqdm / tqdm
+**************************
+69.
+cool-RR / PySnooper
+**************************
+70.
+numpy / numpy
+**************************
+71.
+spotify / luigi
+**************************
+72.
+norvig / pytudes
+**************************
+73.
+bokeh / bokeh
+**************************
+74.
+swisskyrepo / PayloadsAllTheThings
+**************************
+75.
+virgili0 / Virgilio
+**************************
+76.
+jumpserver / jumpserver
+**************************
+77.
+locustio / locust
+**************************
+78.
+facert / awesome-spider
+**************************
+79.
+oracle / graal
+**************************
+80.
+eclipse / deeplearning4j
+**************************
+81.
+powerline / powerline
+**************************
+82.
+cookiecutter / cookiecutter
+**************************
+83.
+zulip / zulip
+**************************
+84.
+plotly / dash
+**************************
+85.
+vnpy / vnpy
+**************************
+86.
+Kr1s77 / awesome-python-login-model
+**************************
+87.
+gto76 / python-cheatsheet
+**************************
+88.
+wting / autojump
+**************************
+89.
+mahmoud / awesome-python-applications
+**************************
