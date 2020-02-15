@@ -29,7 +29,8 @@ There are various strategies to locate elements in a page. You can use the most 
 
  The tearDown method will get called after every test method. So, this is place to do all cleanup functionalities. In the current method, the browser window is closed. You can also call quit method instead of close. The quit will exit all entire browser where as close will close one tab, but if it just one tab, by default most browser will exit entirely.:
 
-```def tearDown(self):
+```
+def tearDown(self):
     self.browser.close()
 ``` 
 **
